@@ -1,0 +1,15 @@
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\bin\Debug\net6.0\Лаб 3-6.exe
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\bin\Debug\net6.0\Лаб 3-6.deps.json
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\bin\Debug\net6.0\Лаб 3-6.runtimeconfig.json
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\bin\Debug\net6.0\Лаб 3-6.dll
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\bin\Debug\net6.0\Лаб 3-6.pdb
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.csproj.AssemblyReference.cache
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.AssemblyInfoInputs.cache
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.AssemblyInfo.cs
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.csproj.CoreCompileInputs.cache
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.dll
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\refint\Лаб 3-6.dll
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.pdb
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\Лаб 3-6.genruntimeconfig.cache
+C:\C#\Лаб 3-6\Лаб 3-6\Лаб 3-6\obj\Debug\net6.0\ref\Лаб 3-6.dll
